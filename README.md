@@ -16,3 +16,5 @@ Using this project
    1. Choose the cloned project folder
 
 You should be able to run the tests for the console app and have a startup project for the web application. To prevent warnings about the certificate when using the web project, install the certificate as a trusted root and open https://localhost:5001 or simply proceed with warnings accepted.
+
+![Example test run](vs-code-remote.gif)
